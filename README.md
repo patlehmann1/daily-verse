@@ -16,6 +16,7 @@ A simple CLI tool that displays Bible verses in your terminal.
 ### Via Homebrew
 
 ```bash
+brew tap patlehmann1/daily-verse
 brew install daily-verse
 ```
 
